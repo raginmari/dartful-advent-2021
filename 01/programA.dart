@@ -1,4 +1,3 @@
-// AoC 2021, day 1.1
 import 'dart:io';
 
 void main() {
